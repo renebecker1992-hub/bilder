@@ -1,0 +1,140 @@
+[
+  {
+    "filename": "MSI_PRO_B550-S_WiFi6E_Ryzen5.jpg",
+    "configuration": "MSI PRO B550-S WIFI6E + AMD Ryzen 5 5500",
+    "cooler": null,
+    "native_generated_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      2000,
+      2000
+    ],
+    "format": "JPEG",
+    "mode": "RGB",
+    "profile": "sRGB built-in",
+    "outer_background_rgb": [
+      255,
+      255,
+      255
+    ],
+    "longest_product_extent_percent": 84.55,
+    "bytes": 1883033
+  },
+  {
+    "filename": "MSI_PRO_B550-S_WiFi6E_Ryzen7.jpg",
+    "configuration": "MSI PRO B550-S WIFI6E + AMD Ryzen 7 5700X",
+    "cooler": null,
+    "native_generated_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      2000,
+      2000
+    ],
+    "format": "JPEG",
+    "mode": "RGB",
+    "profile": "sRGB built-in",
+    "outer_background_rgb": [
+      255,
+      255,
+      255
+    ],
+    "longest_product_extent_percent": 84.55,
+    "bytes": 1884558
+  },
+  {
+    "filename": "MSI_PRO_B550-S_WiFi6E_5800x3d_quiet.jpg",
+    "configuration": "MSI PRO B550-S WIFI6E + AMD Ryzen 7 5800X3D",
+    "cooler": "be quiet! Pure Rock Pro 3 LX ARGB, BK043",
+    "native_generated_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      2000,
+      2000
+    ],
+    "format": "JPEG",
+    "mode": "RGB",
+    "profile": "sRGB built-in",
+    "outer_background_rgb": [
+      255,
+      255,
+      255
+    ],
+    "longest_product_extent_percent": 84.6,
+    "bytes": 2118575
+  },
+  {
+    "filename": "MSI_B550_Gaming_WiFi_Ryzen5.jpg",
+    "configuration": "MSI B550 GAMING WIFI + AMD Ryzen 5 5500",
+    "cooler": null,
+    "native_generated_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      2000,
+      2000
+    ],
+    "format": "JPEG",
+    "mode": "RGB",
+    "profile": "sRGB built-in",
+    "outer_background_rgb": [
+      255,
+      255,
+      255
+    ],
+    "longest_product_extent_percent": 84.45,
+    "bytes": 1878660
+  },
+  {
+    "filename": "MSI_B550_Gaming_WiFi_Ryzen7.jpg",
+    "configuration": "MSI B550 GAMING WIFI + AMD Ryzen 7 5700X",
+    "cooler": null,
+    "native_generated_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      2000,
+      2000
+    ],
+    "format": "JPEG",
+    "mode": "RGB",
+    "profile": "sRGB built-in",
+    "outer_background_rgb": [
+      255,
+      255,
+      255
+    ],
+    "longest_product_extent_percent": 84.45,
+    "bytes": 1816329
+  },
+  {
+    "filename": "MSI_B550_Gaming_WiFi_5800x3d_quiet.jpg",
+    "configuration": "MSI B550 GAMING WIFI + AMD Ryzen 7 5800X3D",
+    "cooler": "be quiet! Pure Rock Pro 3 LX ARGB, BK043",
+    "native_generated_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      2000,
+      2000
+    ],
+    "format": "JPEG",
+    "mode": "RGB",
+    "profile": "sRGB built-in",
+    "outer_background_rgb": [
+      255,
+      255,
+      255
+    ],
+    "longest_product_extent_percent": 84.6,
+    "bytes": 2260753
+  }
+]
